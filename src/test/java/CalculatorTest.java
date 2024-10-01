@@ -7,7 +7,7 @@ public class CalculatorTest {
     Calculator testInstance = new Calculator();
 
     @Test
-    public void testAddition() {
+    public void testAddNumbers() {
         // Test case 1: Positive numbers
         int num1 = 5;
         int num2 = 10;
